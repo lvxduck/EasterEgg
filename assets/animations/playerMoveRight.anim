@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "playerMoveRight",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "b17e799d-a9a2-4329-b453-32aa4e87b68e"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d948ff68-1621-4242-a35a-13345e78483a"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "6c55825c-79ac-4e4a-a1e4-3aa0ef335c39"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
